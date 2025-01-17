@@ -59,7 +59,7 @@ const Carousel: React.FC = () => {
     },
   ];
 
-  const itemsPerPage = 6; // Number of items visible at a time
+  const itemsPerPage = 12; // Number of items visible at a time
   // eslint-disable-next-line react-hooks/rules-of-hooks
   const [currentIndex, setCurrentIndex] = useState(0);
 

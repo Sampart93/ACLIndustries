@@ -56,7 +56,7 @@ const Carousel2: React.FC = () => {
     },
   ];
 
-  const itemsPerPage = 6;
+  const itemsPerPage = 12;
   // eslint-disable-next-line react-hooks/rules-of-hooks
   const [currentIndex, setCurrentIndex] = useState(0);
 
